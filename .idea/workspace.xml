@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a493775a-ddd0-4f19-a640-d05a27433889" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" afterDir="false" />
-    </list>
+    <list default="true" id="a493775a-ddd0-4f19-a640-d05a27433889" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -477,7 +475,7 @@
       <workItem from="1569476926219" duration="8313000" />
       <workItem from="1569485383716" duration="333000" />
       <workItem from="1569485726152" duration="2806000" />
-      <workItem from="1569505011765" duration="4032000" />
+      <workItem from="1569505011765" duration="4327000" />
     </task>
     <servers />
   </component>
@@ -514,7 +512,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55835000" />
+    <option name="totallyTimeSpent" value="56130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,7 +525,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1366" height="770" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20619336" />
