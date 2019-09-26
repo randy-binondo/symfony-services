@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a493775a-ddd0-4f19-a640-d05a27433889" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/config/services.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/services.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/app/config/services.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -108,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -481,7 +477,7 @@
       <workItem from="1569476926219" duration="8313000" />
       <workItem from="1569485383716" duration="333000" />
       <workItem from="1569485726152" duration="2806000" />
-      <workItem from="1569505011765" duration="3673000" />
+      <workItem from="1569505011765" duration="3769000" />
     </task>
     <servers />
   </component>
@@ -518,7 +514,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55476000" />
+    <option name="totallyTimeSpent" value="55572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,10 +530,10 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20619336" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20619336" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.49924472" weight="0.32872504" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49924472" visible="true" weight="0.34562212" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49924472" visible="true" weight="0.34562212" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5007553" side_tool="true" weight="0.31797236" />
       <window_info anchor="bottom" id="Version Control" order="4" />
@@ -692,14 +688,14 @@
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/services.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
