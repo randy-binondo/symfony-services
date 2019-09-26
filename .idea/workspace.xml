@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a493775a-ddd0-4f19-a640-d05a27433889" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/config/services.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/services.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/services.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
@@ -100,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="273">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -181,8 +181,8 @@
         <option value="$PROJECT_DIR$/src/AppBundle/Service/MarkdownTransformer.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" />
         <option value="$PROJECT_DIR$/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php" />
       </list>
     </option>
   </component>
@@ -477,7 +477,7 @@
       <workItem from="1569476926219" duration="8313000" />
       <workItem from="1569485383716" duration="333000" />
       <workItem from="1569485726152" duration="2806000" />
-      <workItem from="1569505011765" duration="3769000" />
+      <workItem from="1569505011765" duration="4032000" />
     </task>
     <servers />
   </component>
@@ -514,7 +514,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55572000" />
+    <option name="totallyTimeSpent" value="55835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -685,17 +685,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/services.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Twig/MarkdownExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
